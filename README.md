@@ -90,8 +90,8 @@ Open the local URL displayed in the terminal to use the application.
 
 ## 7. GitHub Repository Link
 
-Student Pass Prediction – GitHub Repository
+Student Pass Prediction – [GitHub Repository](https://github.com/SatishReddyMedagum/Student_Pass_Prediction)
 
 ## 8. Deployed Application Link
 
-Student Pass Prediction – Live Application
+Student Pass Prediction - https://studentpassprediction-nqdqctcnnpw6vbmzhjgg67.streamlit.app/
